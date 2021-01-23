@@ -29,6 +29,7 @@ const theme = createMuiTheme({
     background: {
       default: '#fff'
     },
+    
   },
   shadows: [],
   overrides: {
